@@ -1,4 +1,4 @@
-###Generado y configuración de las claves publico-privadas
+### Generado y configuración de las claves publico-privadas
 
 ![](img/ssh1.png)
 
