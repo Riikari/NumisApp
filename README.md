@@ -7,8 +7,10 @@ tales como la tirada, el valor de mercado, una pequeña descripción de la misma
 
 ## Herramientas
 
-- Lenguaje: He decidido usar python ya que es con el que me siento más cómodo.
+- Lenguaje: He decidido usar python ya que es con el que me siento más cómodo. ([Explicación más detallada](docs/herramientas.md))
+
+- [Configuración de git](docs/cofig_git.md)
 
 ## Autor
 
-Guillermo Palomino Sánchez
+[Guillermo Palomino Sánchez](https://github.com/Riikari)
