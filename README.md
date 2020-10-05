@@ -7,9 +7,13 @@ tales como la tirada, el valor de mercado, una pequeña descripción de la misma
 
 ## Herramientas
 
-- Lenguaje: He decidido usar python ya que es con el que me siento más cómodo. ([Explicación más detallada](docs/herramientas.md))
+- **Lenguaje:** He decidido usar python ya que es con el que me siento más cómodo. ([Explicación más detallada](docs/herramientas.md))
 
 - [Configuración de git](docs/cofig_git.md)
+
+## Servicios
+
+- La descripción de los servicios a implementar viene dada en este [enlace](docs/herramientas.md) 
 
 ## Autor
 
