@@ -13,7 +13,7 @@ tales como la tirada, el valor de mercado, una pequeña descripción de la misma
 
 ## Servicios
 
-- La descripción de los servicios a implementar viene dada en este [enlace](docs/herramientas.md) 
+- La descripción de los servicios a implementar viene dada en este [enlace](docs/herramientas.md)  
 
 ## Autor
 
