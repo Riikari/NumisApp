@@ -19,3 +19,6 @@ class Moneda:
         
     def getFecha(self):
         return self.fecha
+
+    def getDesc(self):
+        return self.desc
